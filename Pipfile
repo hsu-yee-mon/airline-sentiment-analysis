@@ -9,6 +9,9 @@ networkx = "*"
 scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
+pyarrow = "*"
+openpyxl = "*"
+xlsxwriter = "*"
 
 [dev-packages]
 ipykernel = "*"
